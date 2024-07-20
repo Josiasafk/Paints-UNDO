@@ -1,4 +1,4 @@
-# Paints-Undo
+# Paints-Unda
 
 PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings
 
